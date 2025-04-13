@@ -7,6 +7,6 @@ The code demonstrates an integration of API requests, JSON handling, and GUI dev
 This code was initially developed as part of a course Python project. Later, it is updated with more/new features. 
 
 In addition, the code includes:
-a. 5-Day Forecast: Added a function fetch_forecast to fetch and display the 5-day weather forecast.
+a. 5 Day Forecast: Added a function fetch_forecast to fetch and display the 5-day weather forecast.
 b. Remove Favorite Locations: Added the ability to remove locations from the favorites list.
 c. Dark Mode: Configured the GUI with a dark theme for better usability.
