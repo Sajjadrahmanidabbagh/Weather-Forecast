@@ -8,5 +8,5 @@ This code was initially developed as part of a Python course project. Later, it 
 
 In addition, the code includes:
 a. 5-Day Forecast: Added a function fetch_forecast to fetch and display the 5-day weather forecast.
-b. Remove Favorite Locations: Added the ability to remove locations from the favorites list.
+b. Remove Favorite Locations:Added the ability to remove locations from the favorites list.
 c. Dark Mode: Configured the GUI with a dark theme for better usability.
